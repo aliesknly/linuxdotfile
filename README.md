@@ -1,0 +1,2 @@
+# linuxdotfile
+All config linux
